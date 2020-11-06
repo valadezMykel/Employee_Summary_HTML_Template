@@ -10,3 +10,7 @@ body{
 .card-header{
     background-color: cadetblue;
 }
+
+.card-header h2{
+    color: whitesmoke;
+}
