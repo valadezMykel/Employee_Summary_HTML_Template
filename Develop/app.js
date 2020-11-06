@@ -76,14 +76,14 @@ function askQuestions(){
                 employeeArr.push(new Intern(inputs.name, inputs.id, inputs.email, inputs.school));
                 break;
             case "Manager":
-                const newEMp
+                employeeArr.push(new Manager(inputs.name, inputs.id, inputs.email, inputs.officeNumber))
         };
-        const mykel = new [`${inputs.role}`](inputs.name, inputs.id, inputs.email, inputs.officeNumber);
         if(inputs.again){
             askQuestions();
-        };
-
-    
+        }
+        else{
+            console.log(employeeArr)
+        }
     })
 };
 
