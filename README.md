@@ -11,12 +11,15 @@ For the Repository link click [here](https://github.com/valadezMykel/Employee_Su
 
 ## Table of Contents
 
+[![Instructional Video](https://i9.ytimg.com/vi/WLI9z-oHFXQ/mq2.jpg?sqp=COjnl_0F&rs=AOn4CLBI16vXXuR2JME1BUQFt3ByzidyJw)(https://youtu.be/WLI9z-oHFXQ)]
+
 * [About the Project](#about-the-project)
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
 * [Contributors](#contributors)
 * [Questions](#questions)
+
 
 
 ## About the Project
